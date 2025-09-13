@@ -11,7 +11,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) system designed for technic
 - **Interactive Web Interface**: Modern React-like frontend with real-time chat
 - **Document Reranking**: Cross-encoder reranking for improved relevance
 - **Persistent Memory**: Conversation history with thread management
-- **Authentication**: API key-based security
+- **Authentication**: Password-based security
 - **Health Monitoring**: Service status and model health checks
 
 ## Architecture
